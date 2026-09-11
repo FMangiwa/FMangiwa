@@ -1,4 +1,4 @@
-# Hi, I'm Faizal 👋
+# Hi, I'm Faizal Mangiwa👋
 
 ### AI Engineer | LLM Applications | RAG | AI Agents | Fine-Tuning
 
